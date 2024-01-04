@@ -5,6 +5,8 @@ Submitted by: Group 3
 
 Submitted to: Labastilla, Aisa M.
 
+Date: January 4, 2024
+
 ## Introduction / Problem Statement
 Describe the problem you are trying to give a solution in doing the training and evaluation of the gathered data. State what SDG you are targeting
 
